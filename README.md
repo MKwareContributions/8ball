@@ -14,6 +14,9 @@ Nothing extraordinary, just riced randomizer.
 2. Open it
 
 ## Source code
+
+Requires Visual Studio 2017 or newer.
+
 1. Download as ZIP
 2. Extract `8ball` folder
 3. Open `8ball.sln`
