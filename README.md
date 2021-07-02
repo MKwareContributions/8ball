@@ -19,6 +19,9 @@ Nothing extraordinary, just riced randomizer.
 3. Open `8ball.sln`
 
 ## Compile
+
+Requires Visual Studio 2017 or newer.
+
 1. Click `Build` at the top of Visual Studio
 2. Select `Batch build`
 3. Checkmark `Release`
