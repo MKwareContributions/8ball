@@ -3,7 +3,7 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-![alt text](https://i.imgur.com/keX2haL.png "Logo")
+![alt text](https://i.imgur.com/6OXfRDI.png "Logo")
 
 Nothing extraordinary, just riced randomizer.
 
