@@ -10,8 +10,10 @@ Nothing extraordinary, just riced randomizer.
 # Installation
 
 ## Binary
-1. Download the binary (Windows only)
+1. Download the binary
 2. Open it
+
+(Works fine in Linux with Wine)
 
 ## Source code
 
